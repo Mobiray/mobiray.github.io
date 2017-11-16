@@ -1,0 +1,53 @@
+[{
+
+    "PresetName": "9ebu",
+    "Bpm": 120,
+    "Id": 0,
+    "Pads":[
+    {
+        
+        "$type":"DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":0.5,
+        "Mix":0.5,
+        "Text":"delay1"
+     },
+     {  
+        "$type":"DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":2.5,
+        "Mix":1.5,
+        "Text":"delay2"
+     },
+     {  
+        "$type":"OneshotPad, Assembly-CSharp",
+        "Text":null
+     }
+      ]
+},{
+
+    "PresetName": "9ebu2",
+    "Bpm": 120,
+    "Id": 1,
+    "Pads":[
+    {
+        
+        "$type":"DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":0.5,
+        "Mix":0.5,
+        "Text":"delay1"
+     },
+     {  
+        "$type":"DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":2.5,
+        "Mix":1.5,
+        "Text":"delay2"
+     },
+     {  
+        "$type":"OneshotPad, Assembly-CSharp",
+        "Text":null
+     }
+      ]
+}]
