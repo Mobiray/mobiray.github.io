@@ -6,21 +6,21 @@
     "Pads":[
     {
         
-        "$type":"DelayPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
         "Time":1.0,
         "Feedback":0.5,
         "Mix":0.5,
         "Text":"delay1"
      },
      {  
-        "$type":"DelayPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
         "Time":1.0,
         "Feedback":2.5,
         "Mix":1.5,
         "Text":"delay2"
      },
      {  
-        "$type":"OneshotPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
         "Text":null
      }
       ]
@@ -32,21 +32,21 @@
     "Pads":[
     {
         
-        "$type":"DelayPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
         "Time":1.0,
         "Feedback":0.5,
         "Mix":0.5,
         "Text":"delay1"
      },
      {  
-        "$type":"DelayPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
         "Time":1.0,
         "Feedback":2.5,
         "Mix":1.5,
         "Text":"delay2"
      },
      {  
-        "$type":"OneshotPad, Assembly-CSharp",
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
         "Text":null
      }
       ]
