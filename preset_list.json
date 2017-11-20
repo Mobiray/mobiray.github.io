@@ -50,4 +50,30 @@
         "Text":null
      }
       ]
+},{
+
+    "PresetName": "9ebu3333",
+    "Bpm": 120,
+    "Id": 2,
+    "Pads":[
+    {
+        
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":0.5,
+        "Mix":0.5,
+        "Text":"delay1"
+     },
+     {  
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+        "Time":1.0,
+        "Feedback":2.5,
+        "Mix":1.5,
+        "Text":"delay2"
+     },
+     {  
+        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+        "Text":null
+     }
+      ]
 }]
