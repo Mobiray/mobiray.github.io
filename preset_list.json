@@ -1,105 +1,157 @@
-[{
-
-    "PresetName": "9ebu",
-    "Bpm": 120,
-    "Id": 0,
-    "Pads":[
-    {
-        
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":0.5,
-        "Mix":0.5,
-        "Text":"delay1"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":2.5,
-        "Mix":1.5,
-        "Text":"delay2"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
-        "Text":null
-     }
+[
+   {
+      "Id":3,
+      "PresetName":"Super Dub",
+      "Bpm":120,
+      "Pads":[
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.LoopPad, Assembly-CSharp",
+            "LoopGroupId":0,
+            "Sample":{
+               "Url":"http://mobiray.com/drum_1.ogg",
+               "Id":"super_dub_drum_1"
+            },
+            "ChannelId":0,
+            "Text":"Drums 1"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.LoopPad, Assembly-CSharp",
+            "LoopGroupId":0,
+            "Sample":{
+               "Url":"http://mobiray.com/drum_2.ogg",
+               "Id":"super_dub_drum_2"
+            },
+            "ChannelId":0,
+            "Text":"Drums 2"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.LoopPad, Assembly-CSharp",
+            "LoopGroupId":0,
+            "Sample":{
+               "Url":"http://mobiray.com/drum_3.ogg",
+               "Id":"super_dub_drum_3"
+            },
+            "ChannelId":0,
+            "Text":"Drums 3"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Sample":{
+               "Url":"http://mobiray.com/clap_001.ogg",
+               "Id":"super_dub_clap"
+            },
+            "ChannelId":1,
+            "Text":"Clap"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Sample":{
+               "Url":"http://mobiray.com/kick_2.ogg",
+               "Id":"super_dub_kick"
+            },
+            "ChannelId":1,
+            "Text":"Kick"
+         }
       ]
-},{
-
-    "PresetName": "9ebu2511",
-    "Bpm": 120,
-    "Id": 1,
-    "Pads":[
-    {
-        
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":0.5,
-        "Mix":0.5,
-        "Text":"delay1"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":2.5,
-        "Mix":1.5,
-        "Text":"delay2"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
-        "Text":null
-     }
+   },
+   {
+      "PresetName":"9ebu",
+      "Bpm":120,
+      "Id":0,
+      "Pads":[
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":0.5,
+            "Mix":0.5,
+            "Text":"delay1"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":2.5,
+            "Mix":1.5,
+            "Text":"delay2"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Text":null
+         }
       ]
-},{
-
-    "PresetName": "9ebu3333",
-    "Bpm": 120,
-    "Id": 2,
-    "Pads":[
-    {
-        
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":0.5,
-        "Mix":0.5,
-        "Text":"delay1"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":2.5,
-        "Mix":1.5,
-        "Text":"delay2"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
-        "Text":null
-     }
+   },
+   {
+      "PresetName":"9ebu2511",
+      "Bpm":120,
+      "Id":1,
+      "Pads":[
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":0.5,
+            "Mix":0.5,
+            "Text":"delay1"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":2.5,
+            "Mix":1.5,
+            "Text":"delay2"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Text":null
+         }
       ]
-},{
-
-    "PresetName": "9ebu4444",
-    "Bpm": 120,
-    "Id": 2,
-    "Pads":[
-    {
-        
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":0.5,
-        "Mix":0.5,
-        "Text":"delay1"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
-        "Time":1.0,
-        "Feedback":2.5,
-        "Mix":1.5,
-        "Text":"delay2"
-     },
-     {  
-        "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
-        "Text":null
-     }
+   },
+   {
+      "PresetName":"9ebu3333",
+      "Bpm":120,
+      "Id":2,
+      "Pads":[
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":0.5,
+            "Mix":0.5,
+            "Text":"delay1"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":2.5,
+            "Mix":1.5,
+            "Text":"delay2"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Text":null
+         }
       ]
-}]
+   },
+   {
+      "PresetName":"9ebu4444",
+      "Bpm":120,
+      "Id":2,
+      "Pads":[
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":0.5,
+            "Mix":0.5,
+            "Text":"delay1"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.DelayPad, Assembly-CSharp",
+            "Time":1.0,
+            "Feedback":2.5,
+            "Mix":1.5,
+            "Text":"delay2"
+         },
+         {
+            "$type":"launchpadunity.Assets.Scripts.Model.Pad.OneshotPad, Assembly-CSharp",
+            "Text":null
+         }
+      ]
+   }
+]
